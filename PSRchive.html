@@ -113,7 +113,7 @@
               <div class="u-container-layout u-container-layout-3">
                 <p class="u-text u-text-default u-text-5">You need to create a pulse profile template for PSRchive to fit to the individual pulses/epochs. You can make these yourself with PSRchive. This is the usual command&nbsp;<span class="u-text-palette-3-base">psradd -o template.average -M archives.meta</span>
                   <br>
-                  <br>Make sure to plot it once you've made a template to make sure it makes sense. The pulses need to be aligned to do this. There are examples of how to do this in the PSRchive tutorial below.&nbsp;<br>
+                  <br>Make sure to plot it once you've made a template to make sure it makes sense. The pulses need to be aligned to do this. There are examples of how to do this in the PSRchive tutorial below. You can use something like <span class="u-text-palette-3-base">pam -r 0.5 &lt;archives&gt; -e &lt;file extension for turned archives&gt;</span>&nbsp;but this turns all the pulses by half.<br>
                   <br>You can also smooth it with&nbsp;<span class="u-text-palette-3-base">psrsmooth -W template.average</span>
                   <br>
                   <br>&nbsp;The file output by this command will be&nbsp;<span class="u-text-palette-3-base">template.average.sm</span>. There are also ways to make templates in python using <a href="https://github.com/pennucci/PulsePortraiture/tree/master/examples" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-4-base u-btn-2" target="_blank">Pulse Portraiture</a>.
@@ -154,7 +154,7 @@
           <br>
           <br>PSRchive tutorial:&nbsp;<a href="http://ipta.phys.wvu.edu/files/student-week-2018/PSRCHIVE_Tutorial.pdf" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-4-base u-btn-6" target="_blank">http://ipta.phys.wvu.edu/files/student-week-2018/PSRCHIVE_Tutorial.pdf</a>
           <br>
-          <br>Introduction to PSRchive:&nbsp;<a href="http://zmtt.bao.ac.cn/pulsar_cof_beijing/afternoon_510/PSRCHIVE(3).pdf" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-4-base u-btn-7">http://zmtt.bao.ac.cn/pulsar_cof_beijing/afternoon_510/PSRCHIVE(3).pdf</a>
+          <br>Introduction to PSRchive:&nbsp;<a href="http://zmtt.bao.ac.cn/pulsar_cof_beijing/afternoon_510/PSRCHIVE(3).pdf" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-4-base u-btn-7" target="_blank">http://zmtt.bao.ac.cn/pulsar_cof_beijing/afternoon_510/PSRCHIVE(3).pdf</a>
           <br>
           <br>Pulsar timing theory and tempo2:&nbsp;<a href="http://ipta.phys.wvu.edu/files/student-week-2018/pulsar_timing_lecture.pdf" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-4-base u-btn-8" target="_blank">http://ipta.phys.wvu.edu/files/student-week-2018/pulsar_timing_lecture.pdf</a>
         </p>
