@@ -38943,8 +38943,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 125px;
-  height: 122px;
+  width: 112px;
+  height: 112px;
   margin: 12px -24px 0 auto;
 }
 
@@ -38978,6 +38978,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
+    width: 112px;
     margin-right: -24px;
   }
 
