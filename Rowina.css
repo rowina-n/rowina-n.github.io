@@ -319,45 +319,41 @@
 .u-section-6 .u-btn-1 {
   --radius: 50px;
   border-style: solid;
-  font-weight: 700;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
   margin: 30px auto 0;
-  padding: 10px 70px 10px 68px;
+  padding: 10px 71px 10px 69px;
 }
 
 .u-section-6 .u-btn-2 {
   --radius: 50px;
   border-style: solid;
-  font-weight: 700;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
   margin: 20px auto 0;
-  padding: 9px 29px 10px;
+  padding: 9px 31px 10px;
 }
 
 .u-section-6 .u-btn-3 {
   --radius: 50px;
   border-style: solid;
-  font-weight: 700;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
   margin: 20px auto 0;
-  padding: 10px 24px 10px 23px;
+  padding: 9px 26px 10px 24px;
 }
 
 .u-section-6 .u-btn-4 {
   --radius: 50px;
   border-style: solid;
-  font-weight: 700;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
   margin: 20px auto 0;
-  padding: 10px 46px 10px 45px;
+  padding: 9px 48px 10px;
 }
 
 .u-section-6 .u-layout-cell-2 {
@@ -419,6 +415,22 @@
 
   .u-section-6 .u-layout-cell-1 {
     min-height: 829px;
+  }
+
+  .u-section-6 .u-btn-1 {
+    font-weight: normal;
+  }
+
+  .u-section-6 .u-btn-2 {
+    font-weight: normal;
+  }
+
+  .u-section-6 .u-btn-3 {
+    font-weight: normal;
+  }
+
+  .u-section-6 .u-btn-4 {
+    font-weight: normal;
   }
 
   .u-section-6 .u-layout-cell-2 {
