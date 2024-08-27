@@ -489,6 +489,11 @@
   padding: 0;
 }
 
+.u-section-6 .u-btn-12 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
     min-height: 535px;
