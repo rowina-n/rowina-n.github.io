@@ -59,20 +59,13 @@
   min-height: 303px;
 }
 
-.u-section-3 .u-group-elements-1 {
-  width: 242px;
-  min-height: 243px;
-  height: auto;
-  margin: 30px auto 30px 28px;
-}
-
 .u-section-3 .u-btn-1 {
   font-size: 0.875rem;
   letter-spacing: 1px;
   border-style: solid;
   text-transform: uppercase;
   font-weight: normal;
-  margin: 0 1px 0 0;
+  margin: 30px auto 0 28px;
   padding: 10px 86px 10px 85px;
 }
 
@@ -82,7 +75,7 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   font-weight: normal;
-  margin: 19px 4px 0 1px;
+  margin: 19px auto 0 29px;
   padding: 10px 63px 10px 62px;
 }
 
@@ -92,7 +85,7 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   font-weight: normal;
-  margin: 21px 0 0;
+  margin: 21px auto 0 28px;
   padding: 9px 76px 11px 75px;
 }
 
@@ -102,13 +95,29 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   font-weight: normal;
-  margin: 19px auto 0;
+  margin: 19px auto 30px 29px;
   padding: 9px 70px 11px 69px;
 }
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 608px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-4 {
+    margin-left: 0;
   }
 }
 
