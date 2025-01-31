@@ -500,7 +500,7 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 1824px;
+  min-height: 1046px;
 }
 
 .u-section-5 .u-layout-wrap-1 {
@@ -624,7 +624,7 @@
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1490px;
+    min-height: 848px;
   }
 
   .u-section-5 .u-layout-wrap-1 {
@@ -668,7 +668,7 @@
 
 @media (max-width: 991px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 982px;
+    min-height: 340px;
   }
 
   .u-section-5 .u-layout-wrap-1 {
@@ -698,7 +698,7 @@
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1082px;
+    min-height: 440px;
   }
 
   .u-section-5 .u-layout-wrap-1 {
@@ -1152,12 +1152,10 @@
 }
 
 .u-section-8 .u-image-3 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("images/meerkat.png");
-  background-position: 50% 50%, 50% 50%;
+  background-image: url("images/skymap1.png");
+  background-position: 50% 50%;
   margin-top: 0;
   margin-bottom: 0;
-  background-repeat: no-repeat, no-repeat;
-  background-size: cover, cover;
 }
 
 .u-section-8 .u-container-layout-3 {
@@ -1176,10 +1174,12 @@
 }
 
 .u-section-8 .u-image-4 {
-  background-image: url("images/skymap1.png");
-  background-position: 50% 50%;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("images/meerkat.png");
+  background-position: 50% 50%, 50% 50%;
   margin-top: 0;
   margin-bottom: 0;
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover, cover;
 }
 
 .u-section-8 .u-container-layout-4 {
