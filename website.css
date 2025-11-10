@@ -119,7 +119,7 @@
 
 .u-section-4 .u-gallery-inner-1 {
   grid-template-columns: repeat(2, auto);
-  grid-gap: 10px;
+  --gap: 10px;
 }
 
 .u-section-4 .u-over-slide-1 {
@@ -139,6 +139,10 @@
 
   .u-section-4 .u-gallery-1 {
     height: 264px;
+  }
+
+  .u-section-4 .u-gallery-inner-1 {
+    grid-gap: 10px;
   }
 }
 
