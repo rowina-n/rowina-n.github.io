@@ -177,6 +177,16 @@
   padding: 0;
 }
 
+.u-section-3 .u-btn-5 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-3 .u-btn-6 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-image-1 {
   height: 257px;
   margin-top: 30px;
@@ -895,44 +905,58 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-7 .u-carousel-item-1 {
+    margin-right: initial;
+  }
+
   .u-section-7 .u-carousel-item-2 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-3 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-4 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-5 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-6 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-7 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-8 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-9 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-10 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-7 .u-carousel-item-11 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 }
 
@@ -1112,47 +1136,58 @@
 
 @media (max-width: 1199px) {
   .u-section-8 .u-carousel-item-1 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-2 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-3 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-4 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-5 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-6 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-7 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-8 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-9 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-10 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 
   .u-section-8 .u-carousel-item-11 {
-    margin-bottom: 0;
+    margin-right: initial;
+    margin-top: initial;
   }
 }
 
